@@ -1,0 +1,45 @@
+{
+  "pacientes": [
+    {
+      "id_paciente": 1,
+      "nombre": "José Torres",
+      "edad": 45,
+      "telefono": "6621234567",
+      "consultas": [
+        {
+          "id_consulta": 100,
+          "fecha": "2023-10-01",
+          "motivo": "Dolor de cabeza",
+          "medicamentos": [
+            {
+              "nombre": "Paracetamol",
+              "dosis": "500mg",
+              "frecuencia": "Cada 8 horas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_paciente": 2,
+      "nombre": "Laura Díaz",
+      "edad": 32,
+      "telefono": "6629876543",
+      "consultas": [
+        {
+          "id_consulta": 101,
+          "fecha": "2025-10-11",
+          "motivo": "Fiebre alta",
+          "medicamentos": [
+            {
+              "id_medicamento": 2,
+              "nombre": "fent",
+              "dosis": "20mg",
+              "frecuencia": "Cada 12 horas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
