@@ -1,0 +1,9 @@
+{
+    "_id": 501,
+    "nombre": "Empresa Soluciones S.A.",
+    "direccion": "Calle Falsa 123, Ciudad",
+    "telefonos": [
+        "555-8000",
+        "555-8001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "_id": 2005,
+    "descripcion": "Problema de accesibilidad al sistema de pagos.",
+    "fechaInicio": "2024-10-20",
+    "fechaFin": null,
+    "estado": "En Proceso",
+    "clienteId": 501,
+    "activistasAsignados": [
+        101,
+        105
+    }

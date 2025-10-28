@@ -1,0 +1,11 @@
+{
+    "_id": 101,
+    "nombre": "Ana Gómez",
+    "telefono": "555-1234",
+    "fechaIngreso": "2023-01-15",
+    "problemasAtendidos": [
+        2001,
+        2005,
+        2010
+    ]
+}
