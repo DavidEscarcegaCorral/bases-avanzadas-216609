@@ -133,7 +133,7 @@ public class GestionCafes {
             System.out.println("\n--- Documentos restantes en la colección 'cafes' ---");
             collection.find().forEach(printDocument);
 
-        }catch (Exception e) {
+        } catch (Exception e) {
             System.err.println("Ocurrió un error: " + e);
         }
 
